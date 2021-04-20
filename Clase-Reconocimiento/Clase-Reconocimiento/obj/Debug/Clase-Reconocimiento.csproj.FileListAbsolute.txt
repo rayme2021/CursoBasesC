@@ -1,1 +1,9 @@
 D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\bin\Debug\Clase-Reconocimiento.exe.config
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\bin\Debug\Clase-Reconocimiento.exe
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\bin\Debug\Clase-Reconocimiento.pdb
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase-Reconocimiento.csprojResolveAssemblyReference.cache
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase_Reconocimiento.Form1.resources
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase_Reconocimiento.Properties.Resources.resources
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase-Reconocimiento.csproj.GenerateResource.Cache
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase-Reconocimiento.exe
+D:\CursoC#Actual\Clase-Reconocimiento\Clase-Reconocimiento\obj\Debug\Clase-Reconocimiento.pdb
